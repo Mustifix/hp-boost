@@ -1,0 +1,16 @@
+{
+    "token": "MTE4MDQ1MjkyMzc1OTY1NzA4MQ.GKUPz_.gM264DRB1D1nnei_jsQTkkwMKWjTsAY66XCIXU",
+    "prefix": "b!",
+    "genChannel": "1180588221583872090",
+    "genCooldown": "36000000",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
